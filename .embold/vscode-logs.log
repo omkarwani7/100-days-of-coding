@@ -13,3 +13,14 @@
 2023-05-15 22:09:01 error: SQLITE_ERROR: no such table: issues
 2023-05-15 22:11:47 info: file:///c%3A/Users/Omkar/dsa%20java/TripletSumZero.java
 2023-05-15 22:11:47 error: SQLITE_ERROR: no such table: issues
+2023-05-15 22:12:32 info: file:///c%3A/Users/Omkar/dsa%20java/.git/index.lock
+2023-05-15 22:12:32 error: SQLITE_ERROR: no such table: issues
+2023-05-15 22:12:41 info: file:///c%3A/Users/Omkar/dsa%20java/.git/index.lock
+2023-05-15 22:12:41 error: SQLITE_ERROR: no such table: issues
+2023-05-15 22:55:33 info: file:///c%3A/Users/Omkar/dsa%20java/Main.java
+2023-05-15 22:55:33 error: SQLITE_ERROR: no such table: issues
+2023-05-16 00:14:58 info: tempDirectory:c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.4\temp
+2023-05-16 00:14:58 info: Extraction complete for source: c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.4\resources\embold-scanner-archive.zip, destination: c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.4\temp
+2023-05-16 00:14:58 info: Congratulations, your extension "Embold" is now active!
+2023-05-16 00:15:56 info: file:///c%3A/Users/Omkar/dsa%20java/Main.java
+2023-05-16 00:15:56 error: SQLITE_ERROR: no such table: issues

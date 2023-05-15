@@ -1,3 +1,6 @@
+//Q. given an array of distinct elements. the task is to find triplets in the array whose sum is zero.
+
+
 import java.util.*;
 public class TripletSumZero{
     public static void findTriplet(int[] arr,int n){
