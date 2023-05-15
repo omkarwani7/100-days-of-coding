@@ -1,3 +1,5 @@
+//Q. write a program to perform array rotation to the left by 1.
+
 import java.util.Scanner;
 
 public class RotateArray
