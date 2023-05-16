@@ -38,3 +38,7 @@
 2023-05-16 20:59:10 info: Congratulations, your extension "Embold" is now active!
 2023-05-16 21:01:09 info: file:///c%3A/Users/Omkar/dsa%20java/MaxProfit.java
 2023-05-16 21:01:09 error: SQLITE_ERROR: no such table: issues
+2023-05-16 21:41:04 info: file:///c%3A/Users/Omkar/dsa%20java/.git/index.lock
+2023-05-16 21:41:04 error: SQLITE_ERROR: no such table: issues
+2023-05-16 21:41:10 info: file:///c%3A/Users/Omkar/dsa%20java/.git/index.lock
+2023-05-16 21:41:10 error: SQLITE_ERROR: no such table: issues
