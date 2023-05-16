@@ -24,3 +24,17 @@
 2023-05-16 00:14:58 info: Congratulations, your extension "Embold" is now active!
 2023-05-16 00:15:56 info: file:///c%3A/Users/Omkar/dsa%20java/Main.java
 2023-05-16 00:15:56 error: SQLITE_ERROR: no such table: issues
+2023-05-16 00:16:02 info: file:///c%3A/Users/Omkar/dsa%20java/.git/index.lock
+2023-05-16 00:16:02 error: SQLITE_ERROR: no such table: issues
+2023-05-16 00:16:09 info: file:///c%3A/Users/Omkar/dsa%20java/.git/index.lock
+2023-05-16 00:16:09 error: SQLITE_ERROR: no such table: issues
+2023-05-16 17:33:41 info: tempDirectory:c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.4\temp
+2023-05-16 17:33:41 info: Extraction complete for source: c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.4\resources\embold-scanner-archive.zip, destination: c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.4\temp
+2023-05-16 17:33:41 info: Congratulations, your extension "Embold" is now active!
+2023-05-16 18:09:51 info: file:///c%3A/Users/Omkar/dsa%20java/InsertionPointLL.java
+2023-05-16 18:09:52 error: SQLITE_ERROR: no such table: issues
+2023-05-16 20:59:10 info: tempDirectory:c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.4\temp
+2023-05-16 20:59:10 info: Extraction complete for source: c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.4\resources\embold-scanner-archive.zip, destination: c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.4\temp
+2023-05-16 20:59:10 info: Congratulations, your extension "Embold" is now active!
+2023-05-16 21:01:09 info: file:///c%3A/Users/Omkar/dsa%20java/MaxProfit.java
+2023-05-16 21:01:09 error: SQLITE_ERROR: no such table: issues
