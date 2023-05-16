@@ -1,4 +1,29 @@
 // Q. given two linked lists, find point where the two linked lists intersect each other
+/*
+1- Intersection Point in Y-Shaped Linked Lists
+
+Given two singly linked lists of size N and M, write a program to get the point where two linked lists intersect each other.
+
+Input: 
+Linked List 1 = 4->1->common
+Linked List 2 = 5->6->1->common
+common = 8->4->5->NULL
+Output: 8
+Explanation: 
+
+4              5
+|              |
+1              6
+ \             /
+  8   -----  1 
+   |
+   4
+   |
+  5
+  |
+  NULL       
+*/
+
 
 import java.util.Scanner;
 // lINK LIS
