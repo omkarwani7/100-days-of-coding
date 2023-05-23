@@ -1,4 +1,4 @@
-// leetocde Q. 166
+// leetocde Q. 167
 
 class TwoSum2 {
     public int[] twoSum(int[] numbers, int target) {
