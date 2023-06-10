@@ -1,4 +1,4 @@
-// code for level-order traversal of binary tree
+// code to find height of binary tree
 
 import java.util.*;
 
