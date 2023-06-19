@@ -10,7 +10,6 @@ public class UniqueNos{
             if( first != last){
                 count++;
             }
-
         }
         System.out.println(count);
         
