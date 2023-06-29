@@ -1,5 +1,5 @@
 // leetcode Q. 202
-
+import java.util.*;
 class HappyNumber {
     public boolean isHappy(int n) {
         HashSet<Integer> set = new HashSet<>();
