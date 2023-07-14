@@ -1,3 +1,5 @@
+// leetcode Q.575
+
 class DistributeCandies {
     public int distributeCandies(int[] candyType) {
         HashSet<Integer> set = new HashSet<>();
