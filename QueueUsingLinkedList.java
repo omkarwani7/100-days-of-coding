@@ -37,7 +37,6 @@ public class QueueUsingLinkedList {
                return -1;
            }
            int front = head.data;
-           //single node
            if(head == tail) {
                tail = null;
            }
@@ -61,7 +60,7 @@ public class QueueUsingLinkedList {
        q.add(2);
        q.add(3);
        q.add(4);
-       q.add(5);
+       q.add(5);  
 
 
        while(!q.isEmpty()) {
