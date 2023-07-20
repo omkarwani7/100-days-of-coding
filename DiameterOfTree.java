@@ -1,11 +1,11 @@
-// code for level-order traversal of binary tree
+// code to find diameter of binary tree
 
 import java.util.*;
 
 public class DiameterOfTree{
     static class Node{
         int data;
-        Node left;
+        Node left; 
         Node right;
 
         Node(int data){

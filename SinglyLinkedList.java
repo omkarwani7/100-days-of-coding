@@ -1,5 +1,5 @@
 import java.util.*;
-public class LLInsertBeginning{
+public class SinglyLinkedList{
     class Node{
         int data;
         Node next;
@@ -11,14 +11,14 @@ public class LLInsertBeginning{
     public Node head = null;
     public Node tail = null;
 
-    public void addAtBeginning(int data){
+    public void addNode(int data){
         Node newNode = new Node(data);
         if(head == null){
             head = newNode;
             tail = newNode;
         }else{
-            newNode.next = head;
-            head = newNode;
+            tail.next = newNode;
+            tail = newNode;
         }
     }
     public void display(){
@@ -33,10 +33,11 @@ public class LLInsertBeginning{
         System.out.println();
     }
     public static void main(String[] args){
-        LLInsertBeginning list = new LLInsertBeginning();
-        list.addAtBeginning(3);
-        list.addAtBeginning(2);
-        list.addAtBeginning(1);
+        SinglyLinkedList list = new SinglyLinkedList();
+        list.addNode(1);
+        list.addNode(2);
+        list.addNode(3);
         list.display();
     }
+
 }

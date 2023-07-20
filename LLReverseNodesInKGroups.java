@@ -1,5 +1,5 @@
 import java.util.*;
-public class LLInsertBeginning{
+public class LLReverseNodesInKGroups{
     class Node{
         int data;
         Node next;
@@ -8,7 +8,7 @@ public class LLInsertBeginning{
             this.next = null;
         }
     }
-    public Node head = null;
+    public static Node head = null;
     public Node tail = null;
 
     public void addAtBeginning(int data){
@@ -32,11 +32,36 @@ public class LLInsertBeginning{
         }
         System.out.println();
     }
+    public Node reverseKGroup(Node head,int k){
+        Node temp = head;
+        for(int i=1;i<=k;i++){
+            if(temp == null){
+                return head;
+            }
+            temp = temp.next;
+            Node nextgroup = reverseKGroup(temp,k);
+            Node prev = null;
+            Node curr = head;
+            for(i=1;i<=k;i++){
+                Node next = curr.next;
+                curr.next = prev;
+                prev = curr;
+                curr = next;
+            }
+            head.next = nextgroup;
+            return prev;
+        }
+    }
     public static void main(String[] args){
-        LLInsertBeginning list = new LLInsertBeginning();
+        LLReverseNodesInKGroups list = new LLReverseNodesInKGroups();
+        list.addAtBeginning(5);
+        list.addAtBeginning(4);
         list.addAtBeginning(3);
         list.addAtBeginning(2);
         list.addAtBeginning(1);
         list.display();
+        int k = 2;
+        list.reverseKGroup(head,k);
     }
+
 }

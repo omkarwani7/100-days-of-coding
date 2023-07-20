@@ -1,5 +1,6 @@
 import java.util.*;
-public class LLInsertBeginning{
+import java.io.*;
+public class LLIdentical{
     class Node{
         int data;
         Node next;
@@ -32,8 +33,9 @@ public class LLInsertBeginning{
         }
         System.out.println();
     }
+
     public static void main(String[] args){
-        LLInsertBeginning list = new LLInsertBeginning();
+        LLIdentical list = new LLIdentical();
         list.addAtBeginning(3);
         list.addAtBeginning(2);
         list.addAtBeginning(1);

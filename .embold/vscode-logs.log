@@ -50,3 +50,814 @@
 2023-05-17 00:05:03 error: SQLITE_ERROR: no such table: issues
 2023-05-17 00:05:09 info: file:///c%3A/Users/Omkar/dsa%20java/.git/index.lock
 2023-05-17 00:05:09 error: SQLITE_ERROR: no such table: issues
+2023-05-17 00:05:57 info: file:///c%3A/Users/Omkar/dsa%20java/.git/index.lock
+2023-05-17 00:05:57 error: SQLITE_ERROR: no such table: issues
+2023-05-17 00:06:25 info: file:///c%3A/Users/Omkar/dsa%20java/.git/index.lock
+2023-05-17 00:06:25 error: SQLITE_ERROR: no such table: issues
+2023-05-17 00:06:44 info: file:///c%3A/Users/Omkar/dsa%20java/.git/index.lock
+2023-05-17 00:06:44 error: SQLITE_ERROR: no such table: issues
+2023-05-17 17:38:59 info: tempDirectory:c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.4\temp
+2023-05-17 17:38:59 info: Extraction complete for source: c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.4\resources\embold-scanner-archive.zip, destination: c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.4\temp
+2023-05-17 17:38:59 info: Congratulations, your extension "Embold" is now active!
+2023-05-17 18:14:03 info: file:///c%3A/Users/Omkar/dsa%20java/ReverseLL.java
+2023-05-17 18:14:03 error: SQLITE_ERROR: no such table: issues
+2023-05-17 22:54:30 info: tempDirectory:c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.4\temp
+2023-05-17 22:54:30 info: Extraction complete for source: c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.4\resources\embold-scanner-archive.zip, destination: c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.4\temp
+2023-05-17 22:54:30 info: Congratulations, your extension "Embold" is now active!
+2023-05-17 23:04:23 info: file:///c%3A/Users/Omkar/dsa%20java/PowOfTwo.java
+2023-05-17 23:04:23 error: SQLITE_ERROR: no such table: issues
+2023-05-18 00:04:09 info: tempDirectory:c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.4\temp
+2023-05-18 00:04:09 info: Extraction complete for source: c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.4\resources\embold-scanner-archive.zip, destination: c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.4\temp
+2023-05-18 00:04:09 info: Congratulations, your extension "Embold" is now active!
+2023-05-18 00:04:19 info: file:///c%3A/Users/Omkar/dsa%20java/.git/index.lock
+2023-05-18 00:04:19 error: SQLITE_ERROR: no such table: issues
+2023-05-18 00:04:46 info: file:///c%3A/Users/Omkar/dsa%20java/.git/index.lock
+2023-05-18 00:04:47 error: SQLITE_ERROR: no such table: issues
+2023-05-18 00:06:21 info: file:///c%3A/Users/Omkar/dsa%20java/.git/index.lock
+2023-05-18 00:06:22 error: SQLITE_ERROR: no such table: issues
+2023-05-19 17:46:48 info: tempDirectory:c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.4\temp
+2023-05-19 17:46:48 info: Extraction complete for source: c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.4\resources\embold-scanner-archive.zip, destination: c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.4\temp
+2023-05-19 17:46:48 info: Congratulations, your extension "Embold" is now active!
+2023-05-19 17:48:16 info: file:///c%3A/Users/Omkar/dsa%20java/CircularGame.java
+2023-05-19 17:48:16 error: SQLITE_ERROR: no such table: issues
+2023-05-19 17:48:27 info: file:///c%3A/Users/Omkar/dsa%20java/.git/index.lock
+2023-05-19 17:48:27 error: SQLITE_ERROR: no such table: issues
+2023-05-19 18:04:54 info: tempDirectory:c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.4\temp
+2023-05-19 18:04:54 info: Extraction complete for source: c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.4\resources\embold-scanner-archive.zip, destination: c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.4\temp
+2023-05-19 18:04:54 info: Congratulations, your extension "Embold" is now active!
+2023-05-19 18:06:05 info: file:///c%3A/Users/Omkar/dsa%20java/SortDoublyLL.java
+2023-05-19 18:06:05 error: SQLITE_ERROR: no such table: issues
+2023-05-20 20:31:07 info: tempDirectory:c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.4\temp
+2023-05-20 20:31:07 info: Extraction complete for source: c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.4\resources\embold-scanner-archive.zip, destination: c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.4\temp
+2023-05-20 20:31:07 info: Congratulations, your extension "Embold" is now active!
+2023-05-20 20:32:07 info: file:///c%3A/Users/Omkar/dsa%20java/PowerOfThree.java
+2023-05-20 20:32:07 error: SQLITE_ERROR: no such table: issues
+2023-05-20 20:32:20 info: file:///c%3A/Users/Omkar/dsa%20java/.git/index.lock
+2023-05-20 20:32:20 error: SQLITE_ERROR: no such table: issues
+2023-05-21 23:46:39 info: tempDirectory:c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.4\temp
+2023-05-21 23:46:39 info: Extraction complete for source: c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.4\resources\embold-scanner-archive.zip, destination: c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.4\temp
+2023-05-21 23:46:39 info: Congratulations, your extension "Embold" is now active!
+2023-05-21 23:47:15 info: file:///c%3A/Users/Omkar/dsa%20java/PowXY%2Cjava.java
+2023-05-21 23:47:15 error: SQLITE_ERROR: no such table: issues
+2023-05-21 23:47:19 info: file:///c%3A/Users/Omkar/dsa%20java/.git/index.lock
+2023-05-21 23:47:19 error: SQLITE_ERROR: no such table: issues
+2023-05-21 23:47:30 info: file:///c%3A/Users/Omkar/dsa%20java/.git/index.lock
+2023-05-21 23:47:30 error: SQLITE_ERROR: no such table: issues
+2023-05-22 16:56:34 info: tempDirectory:c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.4\temp
+2023-05-22 16:56:34 info: Extraction complete for source: c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.4\resources\embold-scanner-archive.zip, destination: c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.4\temp
+2023-05-22 16:56:34 info: Congratulations, your extension "Embold" is now active!
+2023-05-22 16:57:03 info: file:///c%3A/Users/Omkar/dsa%20java/ContainerWithMostWater.java
+2023-05-22 16:57:03 error: SQLITE_ERROR: no such table: issues
+2023-05-22 16:57:18 info: file:///c%3A/Users/Omkar/dsa%20java/.git/index.lock
+2023-05-22 16:57:18 error: SQLITE_ERROR: no such table: issues
+2023-05-22 16:57:43 info: file:///c%3A/Users/Omkar/dsa%20java/.git/index.lock
+2023-05-22 16:57:43 error: SQLITE_ERROR: no such table: issues
+2023-05-22 16:57:52 info: file:///c%3A/Users/Omkar/dsa%20java/.git/index.lock
+2023-05-22 16:57:52 error: SQLITE_ERROR: no such table: issues
+2023-05-23 18:28:40 info: tempDirectory:c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.4\temp
+2023-05-23 18:28:40 info: Extraction complete for source: c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.4\resources\embold-scanner-archive.zip, destination: c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.4\temp
+2023-05-23 18:28:40 info: Congratulations, your extension "Embold" is now active!
+2023-05-23 18:29:01 info: file:///c%3A/Users/Omkar/dsa%20java/.git/index.lock
+2023-05-23 18:29:01 error: SQLITE_ERROR: no such table: issues
+2023-05-23 18:29:09 info: file:///c%3A/Users/Omkar/dsa%20java/.git/index.lock
+2023-05-23 18:29:09 error: SQLITE_ERROR: no such table: issues
+2023-05-23 18:29:49 info: file:///c%3A/Users/Omkar/dsa%20java/.git/index.lock
+2023-05-23 18:29:49 error: SQLITE_ERROR: no such table: issues
+2023-05-23 18:29:57 info: file:///c%3A/Users/Omkar/dsa%20java/.git/index.lock
+2023-05-23 18:29:57 error: SQLITE_ERROR: no such table: issues
+2023-05-23 18:30:21 info: file:///c%3A/Users/Omkar/dsa%20java/.git/index.lock
+2023-05-23 18:30:21 error: SQLITE_ERROR: no such table: issues
+2023-05-24 21:53:34 info: tempDirectory:c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.5\temp
+2023-05-24 21:53:34 info: Extraction complete for source: c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.5\resources\embold-scanner-archive.zip, destination: c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.5\temp
+2023-05-24 21:53:34 info: Congratulations, your extension "Embold" is now active!
+2023-05-24 21:54:03 info: file:///c%3A/Users/Omkar/dsa%20java/NoDisappearArray.java
+2023-05-24 21:54:03 error: SQLITE_ERROR: no such table: issues
+2023-05-24 21:54:31 info: file:///c%3A/Users/Omkar/dsa%20java/.git/index.lock
+2023-05-24 21:54:31 error: SQLITE_ERROR: no such table: issues
+2023-05-24 21:54:38 info: file:///c%3A/Users/Omkar/dsa%20java/.git/index.lock
+2023-05-24 21:54:38 error: SQLITE_ERROR: no such table: issues
+2023-05-25 19:08:19 info: tempDirectory:c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.5\temp
+2023-05-25 19:08:19 info: Extraction complete for source: c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.5\resources\embold-scanner-archive.zip, destination: c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.5\temp
+2023-05-25 19:08:19 info: Congratulations, your extension "Embold" is now active!
+2023-05-25 19:08:46 info: file:///c%3A/Users/Omkar/dsa%20java/JewelsAndStones.java
+2023-05-25 19:08:46 error: SQLITE_ERROR: no such table: issues
+2023-05-25 19:09:24 info: file:///c%3A/Users/Omkar/dsa%20java/.git/index.lock
+2023-05-25 19:09:24 error: SQLITE_ERROR: no such table: issues
+2023-05-25 19:09:33 info: file:///c%3A/Users/Omkar/dsa%20java/.git/index.lock
+2023-05-25 19:09:33 error: SQLITE_ERROR: no such table: issues
+2023-05-26 18:40:34 info: tempDirectory:c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.5\temp
+2023-05-26 18:40:34 info: Extraction complete for source: c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.5\resources\embold-scanner-archive.zip, destination: c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.5\temp
+2023-05-26 18:40:34 info: Congratulations, your extension "Embold" is now active!
+2023-05-26 18:41:01 info: file:///c%3A/Users/Omkar/dsa%20java/HeightChecker.java
+2023-05-26 18:41:01 error: SQLITE_ERROR: no such table: issues
+2023-05-26 18:41:39 info: file:///c%3A/Users/Omkar/dsa%20java/.git/index.lock
+2023-05-26 18:41:39 error: SQLITE_ERROR: no such table: issues
+2023-05-26 18:42:23 info: file:///c%3A/Users/Omkar/dsa%20java/.git/index.lock
+2023-05-26 18:42:23 error: SQLITE_ERROR: no such table: issues
+2023-05-26 18:42:29 info: file:///c%3A/Users/Omkar/dsa%20java/.git/index.lock
+2023-05-26 18:42:29 error: SQLITE_ERROR: no such table: issues
+2023-05-26 18:42:42 info: file:///c%3A/Users/Omkar/dsa%20java/.git/index.lock
+2023-05-26 18:42:42 error: SQLITE_ERROR: no such table: issues
+2023-05-26 18:42:49 info: file:///c%3A/Users/Omkar/dsa%20java/.git/index.lock
+2023-05-26 18:42:49 error: SQLITE_ERROR: no such table: issues
+2023-05-27 18:55:08 info: tempDirectory:c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.5\temp
+2023-05-27 18:55:08 info: Extraction complete for source: c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.5\resources\embold-scanner-archive.zip, destination: c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.5\temp
+2023-05-27 18:55:08 info: Congratulations, your extension "Embold" is now active!
+2023-05-27 18:56:06 info: file:///c%3A/Users/Omkar/dsa%20java/.git/index.lock
+2023-05-27 18:56:06 error: SQLITE_ERROR: no such table: issues
+2023-05-28 14:18:56 info: tempDirectory:c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.5\temp
+2023-05-28 14:18:56 info: Extraction complete for source: c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.5\resources\embold-scanner-archive.zip, destination: c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.5\temp
+2023-05-28 14:18:56 info: Congratulations, your extension "Embold" is now active!
+2023-05-30 09:05:32 info: tempDirectory:c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.5\temp
+2023-05-30 09:05:32 info: Extraction complete for source: c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.5\resources\embold-scanner-archive.zip, destination: c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.5\temp
+2023-05-30 09:05:32 info: Congratulations, your extension "Embold" is now active!
+2023-05-30 09:06:04 info: file:///c%3A/Users/Omkar/dsa%20java/ShuffleTheArray.java
+2023-05-30 09:06:04 error: SQLITE_ERROR: no such table: issues
+2023-05-30 09:07:12 info: file:///c%3A/Users/Omkar/dsa%20java/.git/index.lock
+2023-05-30 09:07:12 error: SQLITE_ERROR: no such table: issues
+2023-05-31 08:08:43 info: tempDirectory:c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.5\temp
+2023-05-31 08:08:43 info: Extraction complete for source: c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.5\resources\embold-scanner-archive.zip, destination: c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.5\temp
+2023-05-31 08:08:43 info: Congratulations, your extension "Embold" is now active!
+2023-05-31 08:09:38 info: file:///c%3A/Users/Omkar/dsa%20java/IntToRoman.java
+2023-05-31 08:09:38 error: SQLITE_ERROR: no such table: issues
+2023-05-31 08:10:23 info: file:///c%3A/Users/Omkar/dsa%20java/.git/index.lock
+2023-05-31 08:10:23 error: SQLITE_ERROR: no such table: issues
+2023-05-31 08:10:41 info: file:///c%3A/Users/Omkar/dsa%20java/.git/index.lock
+2023-05-31 08:10:41 error: SQLITE_ERROR: no such table: issues
+2023-06-04 11:16:39 info: tempDirectory:c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.5\temp
+2023-06-04 11:16:39 info: Extraction complete for source: c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.5\resources\embold-scanner-archive.zip, destination: c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.5\temp
+2023-06-04 11:16:39 info: Congratulations, your extension "Embold" is now active!
+2023-06-04 11:17:32 info: file:///c%3A/Users/Omkar/dsa%20java/.git/index.lock
+2023-06-04 11:17:32 error: SQLITE_ERROR: no such table: issues
+2023-06-05 15:35:14 info: tempDirectory:c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.5\temp
+2023-06-05 15:35:14 info: Extraction complete for source: c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.5\resources\embold-scanner-archive.zip, destination: c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.5\temp
+2023-06-05 15:35:14 info: Congratulations, your extension "Embold" is now active!
+2023-06-05 15:35:45 info: file:///c%3A/Users/Omkar/dsa%20java/ValidParentheses.java
+2023-06-05 15:35:45 error: SQLITE_ERROR: no such table: issues
+2023-06-05 15:35:57 info: file:///c%3A/Users/Omkar/dsa%20java/.git/index.lock
+2023-06-05 15:35:57 error: SQLITE_ERROR: no such table: issues
+2023-06-05 15:36:24 info: file:///c%3A/Users/Omkar/dsa%20java/.git/index.lock
+2023-06-05 15:36:24 error: SQLITE_ERROR: no such table: issues
+2023-06-06 14:07:58 info: tempDirectory:c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.5\temp
+2023-06-06 14:07:58 info: Extraction complete for source: c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.5\resources\embold-scanner-archive.zip, destination: c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.5\temp
+2023-06-06 14:07:58 info: Congratulations, your extension "Embold" is now active!
+2023-06-06 14:08:26 info: file:///c%3A/Users/Omkar/dsa%20java/BinaryTreeInorder.java
+2023-06-06 14:08:26 error: SQLITE_ERROR: no such table: issues
+2023-06-06 14:08:31 info: file:///c%3A/Users/Omkar/dsa%20java/.git/index.lock
+2023-06-06 14:08:31 error: SQLITE_ERROR: no such table: issues
+2023-06-06 14:08:38 info: file:///c%3A/Users/Omkar/dsa%20java/.git/index.lock
+2023-06-06 14:08:38 error: SQLITE_ERROR: no such table: issues
+2023-06-08 18:11:32 info: tempDirectory:c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.5\temp
+2023-06-08 18:11:32 info: Extraction complete for source: c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.5\resources\embold-scanner-archive.zip, destination: c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.5\temp
+2023-06-08 18:11:32 info: Congratulations, your extension "Embold" is now active!
+2023-06-08 18:22:15 info: file:///c%3A/Users/Omkar/dsa%20java/MergeTreeNode.java
+2023-06-08 18:22:15 error: SQLITE_ERROR: no such table: issues
+2023-06-08 18:27:32 info: file:///c%3A/Users/Omkar/dsa%20java/.git/index.lock
+2023-06-08 18:27:32 error: SQLITE_ERROR: no such table: issues
+2023-06-08 21:10:50 info: tempDirectory:c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.5\temp
+2023-06-08 21:10:50 info: Extraction complete for source: c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.5\resources\embold-scanner-archive.zip, destination: c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.5\temp
+2023-06-08 21:10:50 info: Congratulations, your extension "Embold" is now active!
+2023-06-08 21:17:35 info: file:///c%3A/Users/Omkar/dsa%20java/SpecialNumber.java
+2023-06-08 21:17:35 error: SQLITE_ERROR: no such table: issues
+2023-06-08 21:18:20 info: file:///c%3A/Users/Omkar/dsa%20java/.git/index.lock
+2023-06-08 21:18:20 error: SQLITE_ERROR: no such table: issues
+2023-06-08 23:35:53 info: file:///c%3A/Users/Omkar/dsa%20java/BinaryTrees.java
+2023-06-08 23:35:53 error: SQLITE_ERROR: no such table: issues
+2023-06-08 23:40:50 info: file:///c%3A/Users/Omkar/dsa%20java/.git/index.lock
+2023-06-08 23:40:50 error: SQLITE_ERROR: no such table: issues
+2023-06-08 23:42:09 info: file:///c%3A/Users/Omkar/dsa%20java/.git/index.lock
+2023-06-08 23:42:09 info: file:///c%3A/Users/Omkar/dsa%20java/.git/objects/maintenance.lock
+2023-06-08 23:42:09 error: SQLITE_ERROR: no such table: issues
+2023-06-08 23:42:09 error: SQLITE_ERROR: no such table: issues
+2023-06-09 00:02:00 info: file:///c%3A/Users/Omkar/dsa%20java/PreOrderTraversal.java
+2023-06-09 00:02:00 error: SQLITE_ERROR: no such table: issues
+2023-06-09 00:05:23 info: file:///c%3A/Users/Omkar/dsa%20java/.git/index.lock
+2023-06-09 00:05:23 error: SQLITE_ERROR: no such table: issues
+2023-06-09 00:05:31 info: file:///c%3A/Users/Omkar/dsa%20java/.git/index.lock
+2023-06-09 00:05:31 error: SQLITE_ERROR: no such table: issues
+2023-06-09 19:10:42 info: tempDirectory:c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.5\temp
+2023-06-09 19:10:42 info: Extraction complete for source: c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.5\resources\embold-scanner-archive.zip, destination: c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.5\temp
+2023-06-09 19:10:42 info: Congratulations, your extension "Embold" is now active!
+2023-06-09 19:36:10 info: file:///c%3A/Users/Omkar/dsa%20java/InOrderTraversal.java
+2023-06-09 19:36:10 error: SQLITE_ERROR: no such table: issues
+2023-06-09 19:37:29 info: file:///c%3A/Users/Omkar/dsa%20java/.git/index.lock
+2023-06-09 19:37:29 error: SQLITE_ERROR: no such table: issues
+2023-06-10 10:39:31 info: tempDirectory:c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.5\temp
+2023-06-10 10:39:31 info: Extraction complete for source: c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.5\resources\embold-scanner-archive.zip, destination: c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.5\temp
+2023-06-10 10:39:31 info: Congratulations, your extension "Embold" is now active!
+2023-06-10 10:45:51 info: file:///c%3A/Users/Omkar/dsa%20java/PostOrderTraversal.java
+2023-06-10 10:45:51 error: SQLITE_ERROR: no such table: issues
+2023-06-10 10:47:36 info: file:///c%3A/Users/Omkar/dsa%20java/.git/index.lock
+2023-06-10 10:47:36 error: SQLITE_ERROR: no such table: issues
+2023-06-10 11:05:43 info: file:///c%3A/Users/Omkar/dsa%20java/LevelOrderTraversal.java
+2023-06-10 11:05:43 error: SQLITE_ERROR: no such table: issues
+2023-06-10 11:09:49 info: file:///c%3A/Users/Omkar/dsa%20java/.git/index.lock
+2023-06-10 11:09:49 error: SQLITE_ERROR: no such table: issues
+2023-06-10 11:46:58 info: file:///c%3A/Users/Omkar/dsa%20java/CountOfNodes.java
+2023-06-10 11:46:58 error: SQLITE_ERROR: no such table: issues
+2023-06-10 11:49:13 info: file:///c%3A/Users/Omkar/dsa%20java/.git/index.lock
+2023-06-10 11:49:13 error: SQLITE_ERROR: no such table: issues
+2023-06-10 11:49:20 info: file:///c%3A/Users/Omkar/dsa%20java/.git/index.lock
+2023-06-10 11:49:20 error: SQLITE_ERROR: no such table: issues
+2023-06-10 11:57:58 info: tempDirectory:c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.5\temp
+2023-06-10 11:57:58 info: Extraction complete for source: c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.5\resources\embold-scanner-archive.zip, destination: c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.5\temp
+2023-06-10 11:57:58 info: Congratulations, your extension "Embold" is now active!
+2023-06-10 12:01:18 info: file:///c%3A/Users/Omkar/dsa%20java/SumOfNodes.java
+2023-06-10 12:01:18 error: SQLITE_ERROR: no such table: issues
+2023-06-10 12:02:35 info: file:///c%3A/Users/Omkar/dsa%20java/SumOfNodesTree.java
+2023-06-10 12:02:35 error: SQLITE_ERROR: no such table: issues
+2023-06-10 12:03:14 info: file:///c%3A/Users/Omkar/dsa%20java/.git/index.lock
+2023-06-10 12:03:14 error: SQLITE_ERROR: no such table: issues
+2023-06-10 12:07:13 info: file:///c%3A/Users/Omkar/dsa%20java/HeightOfTree.java
+2023-06-10 12:07:13 error: SQLITE_ERROR: no such table: issues
+2023-06-10 12:07:40 info: file:///c%3A/Users/Omkar/dsa%20java/.git/index.lock
+2023-06-10 12:07:40 error: SQLITE_ERROR: no such table: issues
+2023-06-10 14:25:39 info: file:///c%3A/Users/Omkar/dsa%20java/DiameterOfTree.java
+2023-06-10 14:25:39 error: SQLITE_ERROR: no such table: issues
+2023-06-10 14:26:29 info: file:///c%3A/Users/Omkar/dsa%20java/.git/index.lock
+2023-06-10 14:26:29 error: SQLITE_ERROR: no such table: issues
+2023-06-10 14:26:36 info: file:///c%3A/Users/Omkar/dsa%20java/.git/refs/remotes/origin/master.lock
+2023-06-10 14:26:36 error: SQLITE_ERROR: no such table: issues
+2023-06-10 14:27:03 info: file:///c%3A/Users/Omkar/dsa%20java/.git/index.lock
+2023-06-10 14:27:03 error: SQLITE_ERROR: no such table: issues
+2023-06-10 14:57:33 info: file:///c%3A/Users/Omkar/dsa%20java/SubtreeAnotherTree.java
+2023-06-10 14:57:33 error: SQLITE_ERROR: no such table: issues
+2023-06-10 14:57:52 info: file:///c%3A/Users/Omkar/dsa%20java/.git/index.lock
+2023-06-10 14:57:52 error: SQLITE_ERROR: no such table: issues
+2023-06-11 15:42:55 info: tempDirectory:c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.5\temp
+2023-06-11 15:42:55 info: Extraction complete for source: c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.5\resources\embold-scanner-archive.zip, destination: c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.5\temp
+2023-06-11 15:42:55 info: Congratulations, your extension "Embold" is now active!
+2023-06-11 15:58:17 info: file:///c%3A/Users/Omkar/dsa%20java/QueueArray.java
+2023-06-11 15:58:17 error: SQLITE_ERROR: no such table: issues
+2023-06-11 15:58:57 info: file:///c%3A/Users/Omkar/dsa%20java/.git/index.lock
+2023-06-11 15:58:57 error: SQLITE_ERROR: no such table: issues
+2023-06-11 16:28:39 info: tempDirectory:c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.5\temp
+2023-06-11 16:28:39 info: Extraction complete for source: c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.5\resources\embold-scanner-archive.zip, destination: c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.5\temp
+2023-06-11 16:28:39 info: Congratulations, your extension "Embold" is now active!
+2023-06-11 16:29:15 info: file:///c%3A/Users/Omkar/dsa%20java/CircularQueue.java
+2023-06-11 16:29:15 error: SQLITE_ERROR: no such table: issues
+2023-06-11 18:51:30 info: file:///c%3A/Users/Omkar/dsa%20java/.git/index.lock
+2023-06-11 18:51:30 error: SQLITE_ERROR: no such table: issues
+2023-06-11 19:59:24 info: file:///c%3A/Users/Omkar/dsa%20java/QueueUsingLinkedList.java
+2023-06-11 19:59:24 error: SQLITE_ERROR: no such table: issues
+2023-06-11 20:59:02 info: tempDirectory:c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.5\temp
+2023-06-11 20:59:02 info: Extraction complete for source: c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.5\resources\embold-scanner-archive.zip, destination: c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.5\temp
+2023-06-11 20:59:02 info: Congratulations, your extension "Embold" is now active!
+2023-06-11 20:59:22 info: file:///c%3A/Users/Omkar/dsa%20java/.git/index.lock
+2023-06-11 20:59:22 error: SQLITE_ERROR: no such table: issues
+2023-06-11 20:59:30 info: file:///c%3A/Users/Omkar/dsa%20java/.git/refs/remotes/origin/master.lock
+2023-06-11 20:59:30 error: SQLITE_ERROR: no such table: issues
+2023-06-11 21:44:10 info: tempDirectory:c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.5\temp
+2023-06-11 21:44:10 info: Extraction complete for source: c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.5\resources\embold-scanner-archive.zip, destination: c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.5\temp
+2023-06-11 21:44:10 info: Congratulations, your extension "Embold" is now active!
+2023-06-11 21:44:26 info: file:///c%3A/Users/Omkar/dsa%20java/QueueUsing2Stack.java
+2023-06-11 21:44:26 error: SQLITE_ERROR: no such table: issues
+2023-06-11 21:55:06 info: file:///c%3A/Users/Omkar/dsa%20java/.git/index.lock
+2023-06-11 21:55:06 error: SQLITE_ERROR: no such table: issues
+2023-06-12 10:46:20 info: tempDirectory:c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.5\temp
+2023-06-12 10:46:20 info: Extraction complete for source: c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.5\resources\embold-scanner-archive.zip, destination: c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.5\temp
+2023-06-12 10:46:20 info: Congratulations, your extension "Embold" is now active!
+2023-06-12 12:03:02 info: tempDirectory:c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.5\temp
+2023-06-12 12:03:02 info: Extraction complete for source: c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.5\resources\embold-scanner-archive.zip, destination: c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.5\temp
+2023-06-12 12:03:02 info: Congratulations, your extension "Embold" is now active!
+2023-06-12 12:03:22 info: file:///c%3A/Users/Omkar/dsa%20java/StackUsingLL.java
+2023-06-12 12:03:22 error: SQLITE_ERROR: no such table: issues
+2023-06-12 12:03:45 info: file:///c%3A/Users/Omkar/dsa%20java/.git/index.lock
+2023-06-12 12:03:45 error: SQLITE_ERROR: no such table: issues
+2023-06-12 17:27:04 info: file:///c%3A/Users/Omkar/dsa%20java/ArrayEx.java
+2023-06-12 17:27:04 error: SQLITE_ERROR: no such table: issues
+2023-06-12 17:35:48 info: tempDirectory:c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.5\temp
+2023-06-12 17:35:48 info: Extraction complete for source: c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.5\resources\embold-scanner-archive.zip, destination: c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.5\temp
+2023-06-12 17:35:48 info: Congratulations, your extension "Embold" is now active!
+2023-06-12 17:37:21 info: file:///c%3A/Users/Omkar/dsa%20java/ArrayNumToDigit.java
+2023-06-12 17:37:21 error: SQLITE_ERROR: no such table: issues
+2023-06-12 18:56:09 info: file:///c%3A/Users/Omkar/dsa%20java/SinglyLinkedList.java
+2023-06-12 18:56:09 error: SQLITE_ERROR: no such table: issues
+2023-06-12 19:00:36 info: file:///c%3A/Users/Omkar/dsa%20java/.git/index.lock
+2023-06-12 19:00:36 error: SQLITE_ERROR: no such table: issues
+2023-06-13 10:23:55 info: tempDirectory:c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.5\temp
+2023-06-13 10:23:55 info: Extraction complete for source: c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.5\resources\embold-scanner-archive.zip, destination: c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.5\temp
+2023-06-13 10:23:55 info: Congratulations, your extension "Embold" is now active!
+2023-06-13 10:28:55 info: file:///c%3A/Users/Omkar/dsa%20java/StackPushAtBottom.java
+2023-06-13 10:28:55 error: SQLITE_ERROR: no such table: issues
+2023-06-13 10:29:45 info: file:///c%3A/Users/Omkar/dsa%20java/.git/index.lock
+2023-06-13 10:29:45 error: SQLITE_ERROR: no such table: issues
+2023-06-13 10:29:53 info: file:///c%3A/Users/Omkar/dsa%20java/.git/refs/remotes/origin/master.lock
+2023-06-13 10:29:53 error: SQLITE_ERROR: no such table: issues
+2023-06-13 10:45:25 info: tempDirectory:c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.5\temp
+2023-06-13 10:45:25 info: Extraction complete for source: c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.5\resources\embold-scanner-archive.zip, destination: c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.5\temp
+2023-06-13 10:45:25 info: Congratulations, your extension "Embold" is now active!
+2023-06-13 10:48:09 info: file:///c%3A/Users/Omkar/dsa%20java/StackReverse.java
+2023-06-13 10:48:09 error: SQLITE_ERROR: no such table: issues
+2023-06-14 16:57:56 info: tempDirectory:c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.5\temp
+2023-06-14 16:57:56 info: Extraction complete for source: c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.5\resources\embold-scanner-archive.zip, destination: c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.5\temp
+2023-06-14 16:57:56 info: Congratulations, your extension "Embold" is now active!
+2023-06-14 17:05:39 info: file:///c%3A/Users/Omkar/dsa%20java/LLInsertBeginning.java
+2023-06-14 17:05:39 error: SQLITE_ERROR: no such table: issues
+2023-06-14 17:14:51 info: file:///c%3A/Users/Omkar/dsa%20java/.git/index.lock
+2023-06-14 17:14:51 error: SQLITE_ERROR: no such table: issues
+2023-06-14 17:24:29 info: file:///c%3A/Users/Omkar/dsa%20java/LLDeleteAtStart.java
+2023-06-14 17:24:29 error: SQLITE_ERROR: no such table: issues
+2023-06-14 17:58:34 info: file:///c%3A/Users/Omkar/dsa%20java/DLLCreation.java
+2023-06-14 17:58:34 error: SQLITE_ERROR: no such table: issues
+2023-06-14 18:38:12 info: file:///c%3A/Users/Omkar/dsa%20java/AutomorphicNum.java
+2023-06-14 18:38:12 error: SQLITE_ERROR: no such table: issues
+2023-06-14 19:10:59 info: file:///c%3A/Users/Omkar/dsa%20java/ArrayDistinctElements.java
+2023-06-14 19:10:59 error: SQLITE_ERROR: no such table: issues
+2023-06-16 16:44:02 info: tempDirectory:c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.5\temp
+2023-06-16 16:44:02 info: Extraction complete for source: c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.5\resources\embold-scanner-archive.zip, destination: c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.5\temp
+2023-06-16 16:44:02 info: Congratulations, your extension "Embold" is now active!
+2023-06-16 16:55:33 info: file:///c%3A/Users/Omkar/dsa%20java/ZeroesFirst.java
+2023-06-16 16:55:33 error: SQLITE_ERROR: no such table: issues
+2023-06-16 16:55:57 info: file:///c%3A/Users/Omkar/dsa%20java/ZerosFirst.java
+2023-06-16 16:55:57 error: SQLITE_ERROR: no such table: issues
+2023-06-16 16:56:18 info: file:///c%3A/Users/Omkar/dsa%20java/Main.java
+2023-06-16 16:56:18 error: SQLITE_ERROR: no such table: issues
+2023-06-16 16:58:34 info: file:///c%3A/Users/Omkar/dsa%20java/FirstZero.java
+2023-06-16 16:58:34 error: SQLITE_ERROR: no such table: issues
+2023-06-16 17:22:59 info: file:///c%3A/Users/Omkar/dsa%20java/PowPrimeDivNFact.java
+2023-06-16 17:22:59 error: SQLITE_ERROR: no such table: issues
+2023-06-16 17:27:37 info: file:///c%3A/Users/Omkar/dsa%20java/.git/index.lock
+2023-06-16 17:27:37 error: SQLITE_ERROR: no such table: issues
+2023-06-16 18:24:55 info: file:///c%3A/Users/Omkar/dsa%20java/UniqueNos.java
+2023-06-16 18:24:55 error: SQLITE_ERROR: no such table: issues
+2023-06-16 18:26:39 info: file:///c%3A/Users/Omkar/dsa%20java/.git/index.lock
+2023-06-16 18:26:39 error: SQLITE_ERROR: no such table: issues
+2023-06-16 18:26:45 info: file:///c%3A/Users/Omkar/dsa%20java/.git/index.lock
+2023-06-16 18:26:45 error: SQLITE_ERROR: no such table: issues
+2023-06-16 22:15:41 info: tempDirectory:c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.5\temp
+2023-06-16 22:15:41 info: Extraction complete for source: c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.5\resources\embold-scanner-archive.zip, destination: c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.5\temp
+2023-06-16 22:15:41 info: Congratulations, your extension "Embold" is now active!
+2023-06-16 22:31:51 info: file:///c%3A/Users/Omkar/dsa%20java/StackBalancedBrackets.java
+2023-06-16 22:31:51 error: SQLITE_ERROR: no such table: issues
+2023-06-16 22:42:13 info: file:///c%3A/Users/Omkar/dsa%20java/.git/index.lock
+2023-06-16 22:42:13 error: SQLITE_ERROR: no such table: issues
+2023-06-17 20:59:11 info: tempDirectory:c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.5\temp
+2023-06-17 20:59:11 info: Extraction complete for source: c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.5\resources\embold-scanner-archive.zip, destination: c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.5\temp
+2023-06-17 20:59:11 info: Congratulations, your extension "Embold" is now active!
+2023-06-17 20:59:35 info: file:///c%3A/Users/Omkar/dsa%20java/.git/index.lock
+2023-06-17 20:59:35 error: SQLITE_ERROR: no such table: issues
+2023-06-18 14:20:43 info: tempDirectory:c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.5\temp
+2023-06-18 14:20:43 info: Extraction complete for source: c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.5\resources\embold-scanner-archive.zip, destination: c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.5\temp
+2023-06-18 14:20:43 info: Congratulations, your extension "Embold" is now active!
+2023-06-18 15:02:10 info: file:///c%3A/Users/Omkar/dsa%20java/MajorityElementArray.java
+2023-06-18 15:02:10 error: SQLITE_ERROR: no such table: issues
+2023-06-19 00:02:21 info: tempDirectory:c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.5\temp
+2023-06-19 00:02:21 info: Extraction complete for source: c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.5\resources\embold-scanner-archive.zip, destination: c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.5\temp
+2023-06-19 00:02:21 info: Congratulations, your extension "Embold" is now active!
+2023-06-19 00:03:00 info: file:///c%3A/Users/Omkar/dsa%20java/.git/index.lock
+2023-06-19 00:03:00 error: SQLITE_ERROR: no such table: issues
+2023-06-19 21:29:52 info: tempDirectory:c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.5\temp
+2023-06-19 21:29:52 info: Extraction complete for source: c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.5\resources\embold-scanner-archive.zip, destination: c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.5\temp
+2023-06-19 21:29:52 info: Congratulations, your extension "Embold" is now active!
+2023-06-19 21:30:27 info: file:///c%3A/Users/Omkar/dsa%20java/.git/index.lock
+2023-06-19 21:30:27 error: SQLITE_ERROR: no such table: issues
+2023-06-19 21:30:35 info: file:///c%3A/Users/Omkar/dsa%20java/.git/index.lock
+2023-06-19 21:30:35 error: SQLITE_ERROR: no such table: issues
+2023-06-20 17:49:22 info: tempDirectory:c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.5\temp
+2023-06-20 17:49:22 info: Extraction complete for source: c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.5\resources\embold-scanner-archive.zip, destination: c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.5\temp
+2023-06-20 17:49:22 info: Congratulations, your extension "Embold" is now active!
+2023-06-20 17:59:01 info: tempDirectory:c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.5\temp
+2023-06-20 17:59:01 info: Extraction complete for source: c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.5\resources\embold-scanner-archive.zip, destination: c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.5\temp
+2023-06-20 17:59:01 info: Congratulations, your extension "Embold" is now active!
+2023-06-20 18:23:39 info: file:///c%3A/Users/Omkar/dsa%20java/StackUsingArray.java
+2023-06-20 18:23:39 error: SQLITE_ERROR: no such table: issues
+2023-06-20 18:53:23 info: file:///c%3A/Users/Omkar/dsa%20java/PrimeDiff6.java
+2023-06-20 18:53:23 error: SQLITE_ERROR: no such table: issues
+2023-06-20 19:09:16 info: file:///c%3A/Users/Omkar/dsa%20java/PairContainers.java
+2023-06-20 19:09:16 error: SQLITE_ERROR: no such table: issues
+2023-06-20 19:18:18 info: file:///c%3A/Users/Omkar/dsa%20java/MatrixTranspose.java
+2023-06-20 19:18:18 error: SQLITE_ERROR: no such table: issues
+2023-06-20 19:24:53 info: file:///c%3A/Users/Omkar/dsa%20java/.git/index.lock
+2023-06-20 19:24:53 error: SQLITE_ERROR: no such table: issues
+2023-06-20 19:24:59 info: file:///c%3A/Users/Omkar/dsa%20java/.git/index.lock
+2023-06-20 19:24:59 error: SQLITE_ERROR: no such table: issues
+2023-06-20 21:57:08 info: file:///c%3A/Users/Omkar/dsa%20java/.git/index.lock
+2023-06-20 21:57:08 error: SQLITE_ERROR: no such table: issues
+2023-06-20 22:01:23 info: tempDirectory:c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.5\temp
+2023-06-20 22:01:23 info: Extraction complete for source: c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.5\resources\embold-scanner-archive.zip, destination: c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.5\temp
+2023-06-20 22:01:23 info: Congratulations, your extension "Embold" is now active!
+2023-06-20 22:02:02 info: file:///c%3A/Users/Omkar/dsa%20java/MajorityElement.java
+2023-06-20 22:02:02 error: SQLITE_ERROR: no such table: issues
+2023-06-20 22:02:17 info: file:///c%3A/Users/Omkar/dsa%20java/.git/index.lock
+2023-06-20 22:02:17 error: SQLITE_ERROR: no such table: issues
+2023-06-20 22:03:56 info: file:///c%3A/Users/Omkar/dsa%20java/MajorityElement2.java
+2023-06-20 22:03:56 error: SQLITE_ERROR: no such table: issues
+2023-06-20 22:04:10 info: file:///c%3A/Users/Omkar/dsa%20java/.git/index.lock
+2023-06-20 22:04:10 error: SQLITE_ERROR: no such table: issues
+2023-06-20 22:05:59 info: file:///c%3A/Users/Omkar/dsa%20java/NextGreaterElement1.java
+2023-06-20 22:05:59 error: SQLITE_ERROR: no such table: issues
+2023-06-20 22:06:14 info: file:///c%3A/Users/Omkar/dsa%20java/.git/index.lock
+2023-06-20 22:06:14 error: SQLITE_ERROR: no such table: issues
+2023-06-20 22:06:52 info: file:///c%3A/Users/Omkar/dsa%20java/.git/index.lock
+2023-06-20 22:06:52 error: SQLITE_ERROR: no such table: issues
+2023-06-20 22:07:00 info: file:///c%3A/Users/Omkar/dsa%20java/.git/index.lock
+2023-06-20 22:07:00 error: SQLITE_ERROR: no such table: issues
+2023-06-20 22:29:17 info: tempDirectory:c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.5\temp
+2023-06-20 22:29:17 info: Extraction complete for source: c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.5\resources\embold-scanner-archive.zip, destination: c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.5\temp
+2023-06-20 22:29:17 info: Congratulations, your extension "Embold" is now active!
+2023-06-20 22:30:12 info: file:///c%3A/Users/Omkar/dsa%20java/HappyNumber.java
+2023-06-20 22:30:12 error: SQLITE_ERROR: no such table: issues
+2023-06-20 22:30:25 info: file:///c%3A/Users/Omkar/dsa%20java/.git/index.lock
+2023-06-20 22:30:25 error: SQLITE_ERROR: no such table: issues
+2023-06-20 22:30:33 info: file:///c%3A/Users/Omkar/dsa%20java/.git/refs/remotes/origin/master.lock
+2023-06-20 22:30:33 error: SQLITE_ERROR: no such table: issues
+2023-06-20 23:43:14 info: tempDirectory:c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.5\temp
+2023-06-20 23:43:14 info: Extraction complete for source: c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.5\resources\embold-scanner-archive.zip, destination: c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.5\temp
+2023-06-20 23:43:14 info: Congratulations, your extension "Embold" is now active!
+2023-06-20 23:43:53 info: file:///c%3A/Users/Omkar/dsa%20java/SortCharByFreq.java
+2023-06-20 23:43:53 error: SQLITE_ERROR: no such table: issues
+2023-06-21 00:10:36 info: tempDirectory:c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.5\temp
+2023-06-21 00:10:36 info: Extraction complete for source: c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.5\resources\embold-scanner-archive.zip, destination: c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.5\temp
+2023-06-21 00:10:36 info: Congratulations, your extension "Embold" is now active!
+2023-06-21 00:10:50 info: file:///c%3A/Users/Omkar/dsa%20java/.git/index.lock
+2023-06-21 00:10:50 error: SQLITE_ERROR: no such table: issues
+2023-06-21 16:48:00 info: tempDirectory:c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.5\temp
+2023-06-21 16:48:00 info: Extraction complete for source: c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.5\resources\embold-scanner-archive.zip, destination: c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.5\temp
+2023-06-21 16:48:00 info: Congratulations, your extension "Embold" is now active!
+2023-06-21 17:01:01 info: file:///c%3A/Users/Omkar/dsa%20java/NearestPrime.java
+2023-06-21 17:01:01 error: SQLITE_ERROR: no such table: issues
+2023-06-21 17:43:54 info: file:///c%3A/Users/Omkar/dsa%20java/StringPermutation.java
+2023-06-21 17:43:54 error: SQLITE_ERROR: no such table: issues
+2023-06-21 18:19:01 info: file:///c%3A/Users/Omkar/dsa%20java/.git/index.lock
+2023-06-21 18:19:01 error: SQLITE_ERROR: no such table: issues
+2023-06-21 18:19:20 info: file:///c%3A/Users/Omkar/dsa%20java/.git/index.lock
+2023-06-21 18:19:20 error: SQLITE_ERROR: no such table: issues
+2023-06-21 18:42:46 info: file:///c%3A/Users/Omkar/dsa%20java/LLNodeValue.java
+2023-06-21 18:42:46 error: SQLITE_ERROR: no such table: issues
+2023-06-21 19:00:17 info: file:///c%3A/Users/Omkar/dsa%20java/LLIdentical.java
+2023-06-21 19:00:17 error: SQLITE_ERROR: no such table: issues
+2023-06-21 19:01:03 info: file:///c%3A/Users/Omkar/dsa%20java/LLIdenticalOrNot.java
+2023-06-21 19:01:03 error: SQLITE_ERROR: no such table: issues
+2023-06-21 19:08:40 info: file:///c%3A/Users/Omkar/dsa%20java/.git/index.lock
+2023-06-21 19:08:40 error: SQLITE_ERROR: no such table: issues
+2023-06-21 19:08:46 info: file:///c%3A/Users/Omkar/dsa%20java/.git/index.lock
+2023-06-21 19:08:46 error: SQLITE_ERROR: no such table: issues
+2023-06-21 19:21:43 info: file:///c%3A/Users/Omkar/dsa%20java/LinkedList.java
+2023-06-21 19:21:43 error: SQLITE_ERROR: no such table: issues
+2023-06-21 19:22:02 info: file:///c%3A/Users/Omkar/dsa%20java/LinkedList1.java
+2023-06-21 19:22:02 error: SQLITE_ERROR: no such table: issues
+2023-06-21 23:15:39 info: tempDirectory:c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.5\temp
+2023-06-21 23:15:39 info: Extraction complete for source: c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.5\resources\embold-scanner-archive.zip, destination: c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.5\temp
+2023-06-21 23:15:39 info: Congratulations, your extension "Embold" is now active!
+2023-06-22 00:04:02 info: file:///c%3A/Users/Omkar/dsa%20java/LLDelNthNodeFromEnd.java
+2023-06-22 00:04:02 error: SQLITE_ERROR: no such table: issues
+2023-06-22 00:04:15 info: file:///c%3A/Users/Omkar/dsa%20java/.git/index.lock
+2023-06-22 00:04:15 error: SQLITE_ERROR: no such table: issues
+2023-06-22 16:48:16 info: tempDirectory:c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.5\temp
+2023-06-22 16:48:16 info: Extraction complete for source: c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.5\resources\embold-scanner-archive.zip, destination: c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.5\temp
+2023-06-22 16:48:16 info: Congratulations, your extension "Embold" is now active!
+2023-06-22 16:54:37 info: file:///c%3A/Users/Omkar/dsa%20java/LLMiddle.java
+2023-06-22 16:54:37 error: SQLITE_ERROR: no such table: issues
+2023-06-22 17:47:12 info: file:///c%3A/Users/Omkar/dsa%20java/PairSumDiv.java
+2023-06-22 17:47:12 error: SQLITE_ERROR: no such table: issues
+2023-06-22 18:16:49 info: file:///c%3A/Users/Omkar/dsa%20java/.git/index.lock
+2023-06-22 18:16:49 error: SQLITE_ERROR: no such table: issues
+2023-06-22 18:25:01 info: file:///c%3A/Users/Omkar/dsa%20java/Handshakes.java
+2023-06-22 18:25:01 error: SQLITE_ERROR: no such table: issues
+2023-06-22 18:25:23 info: file:///c%3A/Users/Omkar/dsa%20java/.git/index.lock
+2023-06-22 18:25:23 error: SQLITE_ERROR: no such table: issues
+2023-06-22 18:35:44 info: file:///c%3A/Users/Omkar/dsa%20java/LLDelNFromEnd.java
+2023-06-22 18:35:44 error: SQLITE_ERROR: no such table: issues
+2023-06-22 18:37:15 info: file:///c%3A/Users/Omkar/dsa%20java/.git/index.lock
+2023-06-22 18:37:15 info: file:///c%3A/Users/Omkar/dsa%20java/.git/objects/maintenance.lock
+2023-06-22 18:37:15 error: SQLITE_ERROR: no such table: issues
+2023-06-22 18:37:15 error: SQLITE_ERROR: no such table: issues
+2023-06-22 18:57:22 info: file:///c%3A/Users/Omkar/dsa%20java/LLPairWiseSwap.java
+2023-06-22 18:57:22 error: SQLITE_ERROR: no such table: issues
+2023-06-22 18:58:14 info: file:///c%3A/Users/Omkar/dsa%20java/.git/index.lock
+2023-06-22 18:58:14 error: SQLITE_ERROR: no such table: issues
+2023-06-23 18:20:51 info: tempDirectory:c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.5\temp
+2023-06-23 18:20:51 info: Extraction complete for source: c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.5\resources\embold-scanner-archive.zip, destination: c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.5\temp
+2023-06-23 18:20:51 info: Congratulations, your extension "Embold" is now active!
+2023-06-23 18:39:31 info: file:///c%3A/Users/Omkar/dsa%20java/LLRotate.java
+2023-06-23 18:39:31 error: SQLITE_ERROR: no such table: issues
+2023-06-23 18:43:56 info: file:///c%3A/Users/Omkar/dsa%20java/.git/index.lock
+2023-06-23 18:43:56 error: SQLITE_ERROR: no such table: issues
+2023-06-23 18:58:23 info: file:///c%3A/Users/Omkar/dsa%20java/Panagram.java
+2023-06-23 18:58:23 error: SQLITE_ERROR: no such table: issues
+2023-06-23 19:01:06 info: file:///c%3A/Users/Omkar/dsa%20java/.git/index.lock
+2023-06-23 19:01:06 error: SQLITE_ERROR: no such table: issues
+2023-06-23 19:01:13 info: file:///c%3A/Users/Omkar/dsa%20java/.git/index.lock
+2023-06-23 19:01:13 error: SQLITE_ERROR: no such table: issues
+2023-06-23 22:56:45 info: tempDirectory:c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.5\temp
+2023-06-23 22:56:45 info: Extraction complete for source: c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.5\resources\embold-scanner-archive.zip, destination: c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.5\temp
+2023-06-23 22:56:45 info: Congratulations, your extension "Embold" is now active!
+2023-06-24 23:23:35 info: file:///c%3A/Users/Omkar/dsa%20java/.git/index.lock
+2023-06-24 23:23:35 error: SQLITE_ERROR: no such table: issues
+2023-06-24 23:23:48 info: file:///c%3A/Users/Omkar/dsa%20java/.git/index.lock
+2023-06-24 23:23:48 error: SQLITE_ERROR: no such table: issues
+2023-06-25 22:19:37 info: tempDirectory:c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.5\temp
+2023-06-25 22:19:37 info: Extraction complete for source: c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.5\resources\embold-scanner-archive.zip, destination: c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.5\temp
+2023-06-25 22:19:37 info: Congratulations, your extension "Embold" is now active!
+2023-06-25 22:20:06 info: file:///c%3A/Users/Omkar/dsa%20java/.git/index.lock
+2023-06-25 22:20:06 error: SQLITE_ERROR: no such table: issues
+2023-06-25 22:28:59 info: file:///c%3A/Users/Omkar/dsa%20java/.git/index.lock
+2023-06-25 22:28:59 error: SQLITE_ERROR: no such table: issues
+2023-06-25 22:29:05 info: file:///c%3A/Users/Omkar/dsa%20java/.git/index.lock
+2023-06-25 22:29:05 info: file:///c%3A/Users/Omkar/dsa%20java/.git/refs/heads/master.lock
+2023-06-25 22:29:05 info: file:///c%3A/Users/Omkar/dsa%20java/.git/objects/71/tmp_obj_ujy0ry
+2023-06-25 22:29:05 error: SQLITE_ERROR: no such table: issues
+2023-06-25 22:29:05 error: SQLITE_ERROR: no such table: issues
+2023-06-25 22:29:05 error: SQLITE_ERROR: no such table: issues
+2023-06-26 10:01:43 info: tempDirectory:c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.5\temp
+2023-06-26 10:01:43 info: Extraction complete for source: c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.5\resources\embold-scanner-archive.zip, destination: c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.5\temp
+2023-06-26 10:01:43 info: Congratulations, your extension "Embold" is now active!
+2023-06-26 10:02:25 info: tempDirectory:c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.5\temp
+2023-06-26 10:02:25 info: Extraction complete for source: c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.5\resources\embold-scanner-archive.zip, destination: c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.5\temp
+2023-06-26 10:02:25 info: Congratulations, your extension "Embold" is now active!
+2023-06-26 10:36:16 info: file:///c%3A/Users/Omkar/dsa%20java/SubarrayKSimilarElem.java
+2023-06-26 10:36:16 error: SQLITE_ERROR: no such table: issues
+2023-06-26 21:43:44 info: tempDirectory:c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.5\temp
+2023-06-26 21:43:44 info: Extraction complete for source: c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.5\resources\embold-scanner-archive.zip, destination: c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.5\temp
+2023-06-26 21:43:44 info: Congratulations, your extension "Embold" is now active!
+2023-06-26 21:49:34 info: file:///c%3A/Users/Omkar/dsa%20java/Combn.java
+2023-06-26 21:49:34 error: SQLITE_ERROR: no such table: issues
+2023-06-26 21:50:46 info: file:///c%3A/Users/Omkar/dsa%20java/.git/index.lock
+2023-06-26 21:50:46 error: SQLITE_ERROR: no such table: issues
+2023-06-26 21:50:54 info: file:///c%3A/Users/Omkar/dsa%20java/.git/refs/remotes/origin/master.lock
+2023-06-26 21:50:54 error: SQLITE_ERROR: no such table: issues
+2023-06-26 22:08:10 info: tempDirectory:c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.5\temp
+2023-06-26 22:08:10 info: Extraction complete for source: c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.5\resources\embold-scanner-archive.zip, destination: c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.5\temp
+2023-06-26 22:08:10 info: Congratulations, your extension "Embold" is now active!
+2023-06-26 22:10:22 info: tempDirectory:c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.5\temp
+2023-06-26 22:10:22 info: Extraction complete for source: c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.5\resources\embold-scanner-archive.zip, destination: c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.5\temp
+2023-06-26 22:10:22 info: Congratulations, your extension "Embold" is now active!
+2023-06-26 22:10:27 info: file:///c%3A/Users/Omkar/dsa%20java/.git/index.lock
+2023-06-26 22:10:27 error: SQLITE_ERROR: no such table: issues
+2023-06-26 22:10:33 info: file:///c%3A/Users/Omkar/dsa%20java/.git/index.lock
+2023-06-26 22:10:33 error: SQLITE_ERROR: no such table: issues
+2023-06-27 14:06:35 info: tempDirectory:c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.5\temp
+2023-06-27 14:06:35 info: Extraction complete for source: c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.5\resources\embold-scanner-archive.zip, destination: c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.5\temp
+2023-06-27 14:06:35 info: Congratulations, your extension "Embold" is now active!
+2023-06-27 14:15:55 info: file:///c%3A/Users/Omkar/dsa%20java/NextElemNotInArray.java
+2023-06-27 14:15:55 error: SQLITE_ERROR: no such table: issues
+2023-06-27 14:17:30 info: tempDirectory:c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.5\temp
+2023-06-27 14:17:30 info: Extraction complete for source: c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.5\resources\embold-scanner-archive.zip, destination: c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.5\temp
+2023-06-27 14:17:30 info: Congratulations, your extension "Embold" is now active!
+2023-06-27 14:25:47 info: file:///c%3A/Users/Omkar/dsa%20java/.git/index.lock
+2023-06-27 14:25:47 error: SQLITE_ERROR: no such table: issues
+2023-06-27 15:16:43 info: file:///c%3A/Users/Omkar/dsa%20java/.git/index.lock
+2023-06-27 15:16:43 error: SQLITE_ERROR: no such table: issues
+2023-06-28 16:51:00 info: tempDirectory:c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.5\temp
+2023-06-28 16:51:00 info: Extraction complete for source: c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.5\resources\embold-scanner-archive.zip, destination: c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.5\temp
+2023-06-28 16:51:00 info: Congratulations, your extension "Embold" is now active!
+2023-06-28 17:12:16 info: file:///c%3A/Users/Omkar/dsa%20java/EvenMiOdd.java
+2023-06-28 17:12:16 error: SQLITE_ERROR: no such table: issues
+2023-06-28 17:43:51 info: file:///c%3A/Users/Omkar/dsa%20java/OddRepeatingElem.java
+2023-06-28 17:43:51 error: SQLITE_ERROR: no such table: issues
+2023-06-28 18:25:21 info: file:///c%3A/Users/Omkar/dsa%20java/MagicNum.java
+2023-06-28 18:25:21 error: SQLITE_ERROR: no such table: issues
+2023-06-28 18:32:22 info: file:///c%3A/Users/Omkar/dsa%20java/.git/index.lock
+2023-06-28 18:32:22 error: SQLITE_ERROR: no such table: issues
+2023-06-28 18:40:16 info: file:///c%3A/Users/Omkar/dsa%20java/.git/index.lock
+2023-06-28 18:40:16 error: SQLITE_ERROR: no such table: issues
+2023-06-28 18:40:22 info: file:///c%3A/Users/Omkar/dsa%20java/.git/index.lock
+2023-06-28 18:40:22 error: SQLITE_ERROR: no such table: issues
+2023-06-28 18:41:37 info: file:///c%3A/Users/Omkar/dsa%20java/.git/index.lock
+2023-06-28 18:41:37 error: SQLITE_ERROR: no such table: issues
+2023-06-28 20:23:35 info: tempDirectory:c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.5\temp
+2023-06-28 20:23:35 info: Extraction complete for source: c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.5\resources\embold-scanner-archive.zip, destination: c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.5\temp
+2023-06-28 20:23:35 info: Congratulations, your extension "Embold" is now active!
+2023-06-28 20:38:11 info: file:///c%3A/Users/Omkar/dsa%20java/TrappingRainwater.java
+2023-06-28 20:38:11 error: SQLITE_ERROR: no such table: issues
+2023-06-29 11:57:12 info: tempDirectory:c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.5\temp
+2023-06-29 11:57:12 info: Extraction complete for source: c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.5\resources\embold-scanner-archive.zip, destination: c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.5\temp
+2023-06-29 11:57:12 info: Congratulations, your extension "Embold" is now active!
+2023-06-29 11:57:46 info: file:///c%3A/Users/Omkar/dsa%20java/.git/index.lock
+2023-06-29 11:57:46 error: SQLITE_ERROR: no such table: issues
+2023-06-29 16:47:25 info: tempDirectory:c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.5\temp
+2023-06-29 16:47:25 info: Extraction complete for source: c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.5\resources\embold-scanner-archive.zip, destination: c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.5\temp
+2023-06-29 16:47:25 info: Congratulations, your extension "Embold" is now active!
+2023-06-29 16:57:39 info: file:///c%3A/Users/Omkar/dsa%20java/UniqueNo.java
+2023-06-29 16:57:39 error: SQLITE_ERROR: no such table: issues
+2023-06-29 17:16:49 info: file:///c%3A/Users/Omkar/dsa%20java/.git/index.lock
+2023-06-29 17:16:49 error: SQLITE_ERROR: no such table: issues
+2023-06-29 17:16:56 info: file:///c%3A/Users/Omkar/dsa%20java/.git/index.lock
+2023-06-29 17:16:56 error: SQLITE_ERROR: no such table: issues
+2023-06-29 17:24:59 info: file:///c%3A/Users/Omkar/dsa%20java/Base17.java
+2023-06-29 17:24:59 error: SQLITE_ERROR: no such table: issues
+2023-06-29 18:14:49 info: file:///c%3A/Users/Omkar/dsa%20java/LLPalindrome.java
+2023-06-29 18:14:49 error: SQLITE_ERROR: no such table: issues
+2023-06-29 22:00:39 info: file:///c%3A/Users/Omkar/dsa%20java/.git/index.lock
+2023-06-29 22:00:39 error: SQLITE_ERROR: no such table: issues
+2023-06-29 22:00:46 info: file:///c%3A/Users/Omkar/dsa%20java/.git/index.lock
+2023-06-29 22:00:46 error: SQLITE_ERROR: no such table: issues
+2023-06-30 12:47:56 info: tempDirectory:c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.5\temp
+2023-06-30 12:47:56 info: Extraction complete for source: c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.5\resources\embold-scanner-archive.zip, destination: c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.5\temp
+2023-06-30 12:47:56 info: Congratulations, your extension "Embold" is now active!
+2023-06-30 12:48:23 info: file:///c%3A/Users/Omkar/dsa%20java/.git/index.lock
+2023-06-30 12:48:23 error: SQLITE_ERROR: no such table: issues
+2023-06-30 16:51:04 info: tempDirectory:c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.5\temp
+2023-06-30 16:51:04 info: Extraction complete for source: c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.5\resources\embold-scanner-archive.zip, destination: c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.5\temp
+2023-06-30 16:51:04 info: Congratulations, your extension "Embold" is now active!
+2023-06-30 17:02:37 info: file:///c%3A/Users/Omkar/dsa%20java/LLLeftShift.java
+2023-06-30 17:02:37 error: SQLITE_ERROR: no such table: issues
+2023-06-30 17:42:11 info: file:///c%3A/Users/Omkar/dsa%20java/Palindrome.java
+2023-06-30 17:42:11 error: SQLITE_ERROR: no such table: issues
+2023-07-01 16:52:02 info: tempDirectory:c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.5\temp
+2023-07-01 16:52:02 info: Extraction complete for source: c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.5\resources\embold-scanner-archive.zip, destination: c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.5\temp
+2023-07-01 16:52:02 info: Congratulations, your extension "Embold" is now active!
+2023-07-01 16:54:59 info: file:///c%3A/Users/Omkar/dsa%20java/LLMerge.java
+2023-07-01 16:54:59 error: SQLITE_ERROR: no such table: issues
+2023-07-01 17:06:45 info: file:///c%3A/Users/Omkar/dsa%20java/MergeLists.java
+2023-07-01 17:06:45 error: SQLITE_ERROR: no such table: issues
+2023-07-01 17:21:03 info: file:///c%3A/Users/Omkar/dsa%20java/.git/index.lock
+2023-07-01 17:21:03 error: SQLITE_ERROR: no such table: issues
+2023-07-01 17:44:13 info: file:///c%3A/Users/Omkar/dsa%20java/SubarrayWindow.java
+2023-07-01 17:44:13 error: SQLITE_ERROR: no such table: issues
+2023-07-01 18:01:46 info: file:///c%3A/Users/Omkar/dsa%20java/.git/index.lock
+2023-07-01 18:01:46 error: SQLITE_ERROR: no such table: issues
+2023-07-01 18:01:53 info: file:///c%3A/Users/Omkar/dsa%20java/.git/index.lock
+2023-07-01 18:01:53 info: file:///c%3A/Users/Omkar/dsa%20java/.git/objects/maintenance.lock
+2023-07-01 18:01:53 error: SQLITE_ERROR: no such table: issues
+2023-07-01 18:01:53 error: SQLITE_ERROR: no such table: issues
+2023-07-01 18:49:36 info: file:///c%3A/Users/Omkar/dsa%20java/KRotations.java
+2023-07-01 18:49:36 error: SQLITE_ERROR: no such table: issues
+2023-07-01 18:57:30 info: file:///c%3A/Users/Omkar/dsa%20java/.git/index.lock
+2023-07-01 18:57:30 error: SQLITE_ERROR: no such table: issues
+2023-07-01 19:09:41 info: file:///c%3A/Users/Omkar/dsa%20java/ArrayProdWithElem.java
+2023-07-01 19:09:41 error: SQLITE_ERROR: no such table: issues
+2023-07-03 16:51:35 info: tempDirectory:c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.5\temp
+2023-07-03 16:51:35 info: Extraction complete for source: c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.5\resources\embold-scanner-archive.zip, destination: c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.5\temp
+2023-07-03 16:51:35 info: Congratulations, your extension "Embold" is now active!
+2023-07-03 17:05:20 info: file:///c%3A/Users/Omkar/dsa%20java/RangeDigits.java
+2023-07-03 17:05:20 error: SQLITE_ERROR: no such table: issues
+2023-07-03 18:10:43 info: file:///c%3A/Users/Omkar/dsa%20java/LLDelNNodesAfterM.java
+2023-07-03 18:10:43 error: SQLITE_ERROR: no such table: issues
+2023-07-03 18:23:41 info: file:///c%3A/Users/Omkar/dsa%20java/.git/index.lock
+2023-07-03 18:23:41 error: SQLITE_ERROR: no such table: issues
+2023-07-03 18:23:52 info: file:///c%3A/Users/Omkar/dsa%20java/.git/refs/remotes/origin/master.lock
+2023-07-03 18:23:52 error: SQLITE_ERROR: no such table: issues
+2023-07-03 18:48:13 info: file:///c%3A/Users/Omkar/dsa%20java/.git/index.lock
+2023-07-03 18:48:13 error: SQLITE_ERROR: no such table: issues
+2023-07-03 18:48:20 info: file:///c%3A/Users/Omkar/dsa%20java/.git/index.lock
+2023-07-03 18:48:20 error: SQLITE_ERROR: no such table: issues
+2023-07-03 18:48:29 info: file:///c%3A/Users/Omkar/dsa%20java/.git/refs/remotes/origin/master.lock
+2023-07-03 18:48:29 error: SQLITE_ERROR: no such table: issues
+2023-07-04 13:39:03 info: tempDirectory:c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.5\temp
+2023-07-04 13:39:03 info: Extraction complete for source: c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.5\resources\embold-scanner-archive.zip, destination: c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.5\temp
+2023-07-04 13:39:03 info: Congratulations, your extension "Embold" is now active!
+2023-07-04 13:43:37 info: file:///c%3A/Users/Omkar/dsa%20java/Subsets.java
+2023-07-04 13:43:37 error: SQLITE_ERROR: no such table: issues
+2023-07-04 13:45:20 info: file:///c%3A/Users/Omkar/dsa%20java/.git/HEAD.lock
+2023-07-04 13:45:20 info: file:///c%3A/Users/Omkar/dsa%20java/.git/index.lock
+2023-07-04 13:45:20 info: file:///c%3A/Users/Omkar/dsa%20java/.git/refs/heads/master.lock
+2023-07-04 13:45:20 info: file:///c%3A/Users/Omkar/dsa%20java/.git/objects/b3/tmp_obj_kjJJss
+2023-07-04 13:45:20 error: SQLITE_ERROR: no such table: issues
+2023-07-04 13:45:20 error: SQLITE_ERROR: no such table: issues
+2023-07-04 13:45:20 error: SQLITE_ERROR: no such table: issues
+2023-07-04 13:45:20 error: SQLITE_ERROR: no such table: issues
+2023-07-04 13:49:55 info: file:///c%3A/Users/Omkar/dsa%20java/Permutations.java
+2023-07-04 13:49:55 error: SQLITE_ERROR: no such table: issues
+2023-07-04 13:50:25 info: file:///c%3A/Users/Omkar/dsa%20java/.git/index.lock
+2023-07-04 13:50:25 error: SQLITE_ERROR: no such table: issues
+2023-07-04 16:54:29 info: tempDirectory:c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.5\temp
+2023-07-04 16:54:29 info: Extraction complete for source: c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.5\resources\embold-scanner-archive.zip, destination: c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.5\temp
+2023-07-04 16:54:29 info: Congratulations, your extension "Embold" is now active!
+2023-07-04 16:58:37 info: file:///c%3A/Users/Omkar/dsa%20java/LeadersInArray.java
+2023-07-04 16:58:37 error: SQLITE_ERROR: no such table: issues
+2023-07-04 17:37:23 info: file:///c%3A/Users/Omkar/dsa%20java/ContagiousFragments.java
+2023-07-04 17:37:23 error: SQLITE_ERROR: no such table: issues
+2023-07-05 15:52:15 info: tempDirectory:c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.5\temp
+2023-07-05 15:52:15 info: Extraction complete for source: c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.5\resources\embold-scanner-archive.zip, destination: c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.5\temp
+2023-07-05 15:52:15 info: Congratulations, your extension "Embold" is now active!
+2023-07-05 15:58:57 info: file:///c%3A/Users/Omkar/dsa%20java/MergeSortedArrays.java
+2023-07-05 15:58:57 error: SQLITE_ERROR: no such table: issues
+2023-07-05 16:13:29 info: file:///c%3A/Users/Omkar/dsa%20java/.git/index.lock
+2023-07-05 16:13:29 error: SQLITE_ERROR: no such table: issues
+2023-07-05 16:23:32 info: tempDirectory:c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.5\temp
+2023-07-05 16:23:32 info: Extraction complete for source: c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.5\resources\embold-scanner-archive.zip, destination: c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.5\temp
+2023-07-05 16:23:32 info: Congratulations, your extension "Embold" is now active!
+2023-07-06 22:11:23 info: tempDirectory:c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.5\temp
+2023-07-06 22:11:23 info: Extraction complete for source: c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.5\resources\embold-scanner-archive.zip, destination: c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.5\temp
+2023-07-06 22:11:23 info: Congratulations, your extension "Embold" is now active!
+2023-07-06 22:13:45 info: file:///c%3A/Users/Omkar/dsa%20java/.git/index.lock
+2023-07-06 22:13:45 error: SQLITE_ERROR: no such table: issues
+2023-07-06 22:13:52 info: file:///c%3A/Users/Omkar/dsa%20java/.git/refs/remotes/origin/master.lock
+2023-07-06 22:13:52 error: SQLITE_ERROR: no such table: issues
+2023-07-07 14:03:25 info: tempDirectory:c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.5\temp
+2023-07-07 14:03:25 info: Extraction complete for source: c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.5\resources\embold-scanner-archive.zip, destination: c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.5\temp
+2023-07-07 14:03:25 info: Congratulations, your extension "Embold" is now active!
+2023-07-07 14:03:45 info: file:///c%3A/Users/Omkar/dsa%20java/.git/index.lock
+2023-07-07 14:03:45 error: SQLITE_ERROR: no such table: issues
+2023-07-08 14:24:34 info: tempDirectory:c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.5\temp
+2023-07-08 14:24:34 info: Extraction complete for source: c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.5\resources\embold-scanner-archive.zip, destination: c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.5\temp
+2023-07-08 14:24:34 info: Congratulations, your extension "Embold" is now active!
+2023-07-08 14:33:14 info: tempDirectory:c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.5\temp
+2023-07-08 14:33:14 info: Extraction complete for source: c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.5\resources\embold-scanner-archive.zip, destination: c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.5\temp
+2023-07-08 14:33:14 info: Congratulations, your extension "Embold" is now active!
+2023-07-08 14:33:26 info: file:///c%3A/Users/Omkar/dsa%20java/.git/index.lock
+2023-07-08 14:33:26 error: SQLITE_ERROR: no such table: issues
+2023-07-09 23:54:54 info: tempDirectory:c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.5\temp
+2023-07-09 23:54:54 info: Extraction complete for source: c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.5\resources\embold-scanner-archive.zip, destination: c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.5\temp
+2023-07-09 23:54:54 info: Congratulations, your extension "Embold" is now active!
+2023-07-09 23:59:09 info: file:///c%3A/Users/Omkar/dsa%20java/.git/index.lock
+2023-07-09 23:59:09 error: SQLITE_ERROR: no such table: issues
+2023-07-10 19:02:00 info: tempDirectory:c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.5\temp
+2023-07-10 19:02:00 info: Extraction complete for source: c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.5\resources\embold-scanner-archive.zip, destination: c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.5\temp
+2023-07-10 19:02:00 info: Congratulations, your extension "Embold" is now active!
+2023-07-10 19:02:16 info: file:///c%3A/Users/Omkar/dsa%20java/.git/index.lock
+2023-07-10 19:02:16 error: SQLITE_ERROR: no such table: issues
+2023-07-10 19:02:24 info: file:///c%3A/Users/Omkar/dsa%20java/.git/index.lock
+2023-07-10 19:02:24 error: SQLITE_ERROR: no such table: issues
+2023-07-10 19:15:03 info: tempDirectory:c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.5\temp
+2023-07-10 19:15:03 info: Extraction complete for source: c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.5\resources\embold-scanner-archive.zip, destination: c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.5\temp
+2023-07-10 19:15:03 info: Congratulations, your extension "Embold" is now active!
+2023-07-10 23:17:38 info: file:///c%3A/Users/Omkar/dsa%20java/LLReverse.java
+2023-07-10 23:17:38 error: SQLITE_ERROR: no such table: issues
+2023-07-10 23:17:51 info: file:///c%3A/Users/Omkar/dsa%20java/.git/index.lock
+2023-07-10 23:17:51 error: SQLITE_ERROR: no such table: issues
+2023-07-11 10:30:16 info: tempDirectory:c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.5\temp
+2023-07-11 10:30:16 info: Extraction complete for source: c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.5\resources\embold-scanner-archive.zip, destination: c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.5\temp
+2023-07-11 10:30:16 info: Congratulations, your extension "Embold" is now active!
+2023-07-11 21:15:43 info: file:///c%3A/Users/Omkar/dsa%20java/LLMergeTwoLists.java
+2023-07-11 21:15:43 error: SQLITE_ERROR: no such table: issues
+2023-07-11 21:15:58 info: file:///c%3A/Users/Omkar/dsa%20java/.git/index.lock
+2023-07-11 21:15:58 error: SQLITE_ERROR: no such table: issues
+2023-07-11 21:21:26 info: tempDirectory:c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.5\temp
+2023-07-11 21:21:26 info: Extraction complete for source: c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.5\resources\embold-scanner-archive.zip, destination: c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.5\temp
+2023-07-11 21:21:26 info: Congratulations, your extension "Embold" is now active!
+2023-07-11 22:13:12 info: file:///c%3A/Users/Omkar/dsa%20java/LLReverseNodesInKGroups.java
+2023-07-11 22:13:12 error: SQLITE_ERROR: no such table: issues
+2023-07-12 22:00:10 info: tempDirectory:c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.5\temp
+2023-07-12 22:00:10 info: Extraction complete for source: c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.5\resources\embold-scanner-archive.zip, destination: c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.5\temp
+2023-07-12 22:00:10 info: Congratulations, your extension "Embold" is now active!
+2023-07-12 22:00:21 info: file:///c%3A/Users/Omkar/dsa%20java/.git/index.lock
+2023-07-12 22:00:21 error: SQLITE_ERROR: no such table: issues
+2023-07-12 22:01:04 info: tempDirectory:c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.5\temp
+2023-07-12 22:01:04 info: Extraction complete for source: c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.5\resources\embold-scanner-archive.zip, destination: c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.5\temp
+2023-07-12 22:01:04 info: Congratulations, your extension "Embold" is now active!
+2023-07-13 00:04:24 info: tempDirectory:c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.5\temp
+2023-07-13 00:04:24 info: Extraction complete for source: c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.5\resources\embold-scanner-archive.zip, destination: c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.5\temp
+2023-07-13 00:04:24 info: Congratulations, your extension "Embold" is now active!
+2023-07-13 21:53:40 info: tempDirectory:c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.5\temp
+2023-07-13 21:53:40 info: Extraction complete for source: c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.5\resources\embold-scanner-archive.zip, destination: c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.5\temp
+2023-07-13 21:53:40 info: Congratulations, your extension "Embold" is now active!
+2023-07-13 22:34:36 info: tempDirectory:c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.5\temp
+2023-07-13 22:34:36 info: Extraction complete for source: c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.5\resources\embold-scanner-archive.zip, destination: c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.5\temp
+2023-07-13 22:34:36 info: Congratulations, your extension "Embold" is now active!
+2023-07-13 22:35:12 info: file:///c%3A/Users/Omkar/dsa%20java/.git/index.lock
+2023-07-13 22:35:12 error: SQLITE_ERROR: no such table: issues
+2023-07-14 19:12:22 info: tempDirectory:c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.5\temp
+2023-07-14 19:12:22 info: Extraction complete for source: c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.5\resources\embold-scanner-archive.zip, destination: c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.5\temp
+2023-07-14 19:12:22 info: Congratulations, your extension "Embold" is now active!
+2023-07-14 19:12:37 info: file:///c%3A/Users/Omkar/dsa%20java/.git/index.lock
+2023-07-14 19:12:37 error: SQLITE_ERROR: no such table: issues
+2023-07-14 19:12:44 info: file:///c%3A/Users/Omkar/dsa%20java/.git/index.lock
+2023-07-14 19:12:44 error: SQLITE_ERROR: no such table: issues
+2023-07-14 21:23:59 info: file:///c%3A/Users/Omkar/dsa%20java/LongestSubstring.java
+2023-07-14 21:23:59 error: SQLITE_ERROR: no such table: issues
+2023-07-14 21:30:31 info: file:///c%3A/Users/Omkar/dsa%20java/.git/index.lock
+2023-07-14 21:30:31 error: SQLITE_ERROR: no such table: issues
+2023-07-14 21:30:39 info: file:///c%3A/Users/Omkar/dsa%20java/.git/refs/remotes/origin/master.lock
+2023-07-14 21:30:39 error: SQLITE_ERROR: no such table: issues
+2023-07-15 19:28:42 info: tempDirectory:c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.5\temp
+2023-07-15 19:28:42 info: Extraction complete for source: c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.5\resources\embold-scanner-archive.zip, destination: c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.5\temp
+2023-07-15 19:28:42 info: Congratulations, your extension "Embold" is now active!
+2023-07-15 20:51:48 info: file:///c%3A/Users/Omkar/dsa%20java/.git/index.lock
+2023-07-15 20:51:48 error: SQLITE_ERROR: no such table: issues
+2023-07-16 15:56:01 info: tempDirectory:c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.5\temp
+2023-07-16 15:56:01 info: Extraction complete for source: c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.5\resources\embold-scanner-archive.zip, destination: c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.5\temp
+2023-07-16 15:56:01 info: Congratulations, your extension "Embold" is now active!
+2023-07-16 16:01:48 info: file:///c%3A/Users/Omkar/dsa%20java/GenerateParentheses.java
+2023-07-16 16:01:48 error: SQLITE_ERROR: no such table: issues
+2023-07-16 16:03:54 info: file:///c%3A/Users/Omkar/dsa%20java/.git/HEAD.lock
+2023-07-16 16:03:54 info: file:///c%3A/Users/Omkar/dsa%20java/.git/index.lock
+2023-07-16 16:03:54 info: file:///c%3A/Users/Omkar/dsa%20java/.git/refs/heads/master.lock
+2023-07-16 16:03:54 error: SQLITE_ERROR: no such table: issues
+2023-07-16 16:03:54 error: SQLITE_ERROR: no such table: issues
+2023-07-16 16:03:54 error: SQLITE_ERROR: no such table: issues
+2023-07-17 21:50:18 info: tempDirectory:c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.5\temp
+2023-07-17 21:50:18 info: Extraction complete for source: c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.5\resources\embold-scanner-archive.zip, destination: c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.5\temp
+2023-07-17 21:50:18 info: Congratulations, your extension "Embold" is now active!
+2023-07-17 21:50:39 info: file:///c%3A/Users/Omkar/dsa%20java/.git/index.lock
+2023-07-17 21:50:39 error: SQLITE_ERROR: no such table: issues
+2023-07-18 14:45:11 info: tempDirectory:c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.5\temp
+2023-07-18 14:45:11 info: Extraction complete for source: c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.5\resources\embold-scanner-archive.zip, destination: c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.5\temp
+2023-07-18 14:45:11 info: Congratulations, your extension "Embold" is now active!
+2023-07-18 14:54:08 info: file:///c%3A/Users/Omkar/dsa%20java/.git/index.lock
+2023-07-18 14:54:08 error: SQLITE_ERROR: no such table: issues
+2023-07-19 19:03:17 info: tempDirectory:c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.5\temp
+2023-07-19 19:03:17 info: Extraction complete for source: c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.5\resources\embold-scanner-archive.zip, destination: c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.5\temp
+2023-07-19 19:03:17 info: Congratulations, your extension "Embold" is now active!
+2023-07-19 19:08:00 info: file:///c%3A/Users/Omkar/dsa%20java/PalindromeLC.java
+2023-07-19 19:08:00 error: SQLITE_ERROR: no such table: issues
+2023-07-19 19:09:43 info: file:///c%3A/Users/Omkar/dsa%20java/.git/index.lock
+2023-07-19 19:09:43 error: SQLITE_ERROR: no such table: issues
+2023-07-19 19:14:16 info: tempDirectory:c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.5\temp
+2023-07-19 19:14:16 info: Extraction complete for source: c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.5\resources\embold-scanner-archive.zip, destination: c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.5\temp
+2023-07-19 19:14:16 info: Congratulations, your extension "Embold" is now active!
+2023-07-19 19:15:38 info: file:///c%3A/Users/Omkar/dsa%20java/.git/index.lock
+2023-07-19 19:15:38 error: SQLITE_ERROR: no such table: issues
+2023-07-19 21:15:36 info: tempDirectory:c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.5\temp
+2023-07-19 21:15:36 info: Extraction complete for source: c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.5\resources\embold-scanner-archive.zip, destination: c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.5\temp
+2023-07-19 21:15:36 info: Congratulations, your extension "Embold" is now active!
+2023-07-19 21:28:30 info: file:///c%3A/Users/Omkar/dsa%20java/PalindromePartitioning.java
+2023-07-19 21:28:30 error: SQLITE_ERROR: no such table: issues
+2023-07-19 21:45:48 info: tempDirectory:c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.5\temp
+2023-07-19 21:45:48 info: Extraction complete for source: c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.5\resources\embold-scanner-archive.zip, destination: c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.5\temp
+2023-07-19 21:45:48 info: Congratulations, your extension "Embold" is now active!
+2023-07-19 22:06:28 info: tempDirectory:c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.5\temp
+2023-07-19 22:06:28 info: Extraction complete for source: c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.5\resources\embold-scanner-archive.zip, destination: c:\Users\Omkar\.vscode\extensions\embold-vscode.embold-0.1.5\temp
+2023-07-19 22:06:28 info: Congratulations, your extension "Embold" is now active!

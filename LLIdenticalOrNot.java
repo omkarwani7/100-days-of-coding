@@ -23,7 +23,8 @@ public class LLIdenticalOrNot{
         }
     }
     public boolean isIdentical(LLIdenticalOrNot listb){
-        Node a = this.head, b = listb.head;
+        Node a = this.head; 
+        Node b = listb.head;
         while(a!=null && b!=null){
             if(a.data!=b.data){
                 return false;
