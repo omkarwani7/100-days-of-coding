@@ -27,7 +27,7 @@ public class LargeSmallSum{
         return evenelem+oddelem;
     }
     public static void main(String[] args){
-        int[] arr={3,2,1,7,5,4};
+        int[] arr={8,0,2,3,5,6};
         int n=arr.length;
         System.out.println(getSum(arr,n));
     }
