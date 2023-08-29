@@ -1,3 +1,5 @@
+// count max sum after making k size jumps in the array
+
 import java.util.*;
 public class CountMaxKJumps{
     public static int getMax(int[] arr,int k){
