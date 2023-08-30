@@ -1,4 +1,4 @@
-
+// check if the string is rotated by k places
 
 import java.util.*;
 public class ChaechStringRotated{
