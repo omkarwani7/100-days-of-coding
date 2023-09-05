@@ -4,9 +4,9 @@ public class LLDetectAndRemoveLoop{
 	static class Node{
 		int data;
 		Node next;
-		Node(int d){
-			data = d;
-			next = null;
+		Node(int data){
+			this.data =data;
+			this.next =null;
 		}
 	}
 
